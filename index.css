@@ -1,0 +1,71 @@
+#banner{
+    background-image: url(./img/pattern.png);
+    background-size: 25%;
+    background-color: aqua;
+    height: 100px;
+}
+
+#logo{
+    width: 200px;
+    padding: 30px;
+}
+
+.struttura{
+    width: 75%;
+    margin: auto;
+}
+
+ul{
+    margin-left: -18px;
+} 
+
+
+#titolo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 0px;
+}
+
+.tim{
+    height: 300px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.crediti{
+    font-size: small;
+}
+
+#evidenziare{
+    background-color: yellow;
+    font-weight: 300;
+}
+
+table{
+    width: 100%;
+    text-align: left;
+    table-layout: fixed;
+}
+
+#testa-tabella{
+    color: white;
+    background-color: blueviolet;
+    font-weight: 300;
+}
+
+#dato-lungo{
+    width: 50%;
+}
+
+.dati-azzurro{
+    background-color: aqua;
+}
+
+footer{
+    position: absolute;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 98%;
+    font-size: small;
+    padding: 12px;
+}
